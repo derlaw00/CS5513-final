@@ -1,0 +1,7 @@
+.md{
+    --ion-background-color:rgb(121, 49, 7);
+    --ion-toolbar-background:rgb(34, 83, 6);
+    --ion-tab-bar-background:rgb(34, 83, 6);
+    --ion-tab-bar-color:white;
+    --ion-tab-bar-color-selected:#ffa1a1;
+}
